@@ -1,0 +1,8 @@
+Configs:
+server:
+  host: ""
+  port: 8010
+  read_time_out: 60s
+  write_time_out: 60s
+adapter:
+  time_out: 30s
